@@ -27,11 +27,11 @@
    git clone https://github.com/ваш_репозиторий.git
    cd ваш_репозиторий
 
-2. Поместите файл (скачанный по ссылке ниже в папку `data/`:
+2. Поместите файл (скачанный по ссылке ниже в папку `data/`):
 
    https://storage.yandexcloud.net/academy.ai/A_Z_Handwritten_Data.csv
 
-3. Установите зависимости:
+3. Активировать виртуальное окружение:
 
    ```bash
    python -m venv venv
