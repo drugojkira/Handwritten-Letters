@@ -23,8 +23,8 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/ваш_репозиторий.git
-   cd ваш_репозиторий
+   git clone https://github.com/Handwritten-Letters.git
+   cd Handwritten-Letters
 
 2. Поместите файл (скачанный по ссылке ниже в папку `data/`):
 
